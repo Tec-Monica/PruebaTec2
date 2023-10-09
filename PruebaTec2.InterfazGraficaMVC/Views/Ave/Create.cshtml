@@ -1,0 +1,71 @@
+﻿@model PruebaTec2.EntidadesDeNegocio.Ave
+
+@{
+    ViewData["Title"] = "Crear";
+    List<PruebaTec2.EntidadesDeNegocio.Tipo> tipos = ViewBag.Aves as List<PruebaTec2.EntidadesDeNegocio.Tipo>;
+
+}
+
+<h1 class="text-center">Nueva ave</h1>
+
+<hr />
+
+<div class="row   d-flex justify-content-center">
+    <div class="col-md-4" >
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Imagen" class="control-label"></label>
+                <input asp-for="Imagen" class="form-control" />
+                <span asp-validation-for="Imagen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+             <textarea class="form-control" asp-for="Descripcion" rows="3"></textarea>
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>                         
+
+            <div class="form-group">
+                <label asp-for="IdTipo" class="control-label"></label>
+
+                <select asp-for="IdTipo" class=form-control>
+
+                    <option selected value="SELECCIONAR" class="text-danger">SELECCIONAR</option>
+                    @foreach(var item in tipos)
+                    {
+                        <option value="@item.Id">@item.Nombre</option>
+                    }
+                </select>
+
+                <span asp-validation-for="IdTipo"></span>
+
+            </div>
+            
+
+
+
+
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+                    <a asp-action="Index" type="butonn" class=" btn btn-secondary">Regresar a la lista  </a>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@*<div>
+    
+</div>
+*@
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

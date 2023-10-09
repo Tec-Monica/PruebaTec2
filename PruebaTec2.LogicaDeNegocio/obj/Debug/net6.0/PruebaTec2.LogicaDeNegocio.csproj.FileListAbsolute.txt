@@ -1,0 +1,17 @@
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\PruebaTec2.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\PruebaTec2.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\PruebaTec2.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\PruebaTec2.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\PruebaTec2.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\bin\Debug\net6.0\PruebaTec2.LogicaDeNegocio.deps.json
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\bin\Debug\net6.0\PruebaTec2.LogicaDeNegocio.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\bin\Debug\net6.0\PruebaTec2.LogicaDeNegocio.pdb
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\bin\Debug\net6.0\PruebaTec2.AccesoADatos.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\bin\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\bin\Debug\net6.0\PruebaTec2.AccesoADatos.pdb
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\bin\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.pdb
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\PruebaTec2.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\PruebaTec2.LogicaDeNegocio.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\refint\PruebaTec2.LogicaDeNegocio.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\PruebaTec2.LogicaDeNegocio.pdb
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.LogicaDeNegocio\obj\Debug\net6.0\ref\PruebaTec2.LogicaDeNegocio.dll

@@ -1,0 +1,15 @@
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\PruebaTec2.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\PruebaTec2.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\PruebaTec2.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\PruebaTec2.AccesoADatos.AssemblyInfo.cs
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\PruebaTec2.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\bin\Debug\net6.0\PruebaTec2.AccesoADatos.deps.json
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\bin\Debug\net6.0\PruebaTec2.AccesoADatos.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\bin\Debug\net6.0\PruebaTec2.AccesoADatos.pdb
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\bin\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\bin\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.pdb
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\PruebaTec2.AccesoADatos.csproj.CopyComplete
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\PruebaTec2.AccesoADatos.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\refint\PruebaTec2.AccesoADatos.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\PruebaTec2.AccesoADatos.pdb
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.AccesoADatos\obj\Debug\net6.0\ref\PruebaTec2.AccesoADatos.dll

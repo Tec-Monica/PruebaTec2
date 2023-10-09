@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.LogicaDeNegocio\\PruebaTec2.LogicaDeNegocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.AccesoADatos\\PruebaTec2.AccesoADatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.AccesoADatos\\PruebaTec2.AccesoADatos.csproj",
+        "projectName": "PruebaTec2.AccesoADatos",
+        "projectPath": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.AccesoADatos\\PruebaTec2.AccesoADatos.csproj",
+        "packagesPath": "C:\\Users\\je\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.AccesoADatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\je\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.EntidadesDeNegocio\\PruebaTec2.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.EntidadesDeNegocio\\PruebaTec2.EntidadesDeNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.EntidadesDeNegocio\\PruebaTec2.EntidadesDeNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.EntidadesDeNegocio\\PruebaTec2.EntidadesDeNegocio.csproj",
+        "projectName": "PruebaTec2.EntidadesDeNegocio",
+        "projectPath": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.EntidadesDeNegocio\\PruebaTec2.EntidadesDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\je\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.EntidadesDeNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\je\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.LogicaDeNegocio\\PruebaTec2.LogicaDeNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.LogicaDeNegocio\\PruebaTec2.LogicaDeNegocio.csproj",
+        "projectName": "PruebaTec2.LogicaDeNegocio",
+        "projectPath": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.LogicaDeNegocio\\PruebaTec2.LogicaDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\je\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.LogicaDeNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\je\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.AccesoADatos\\PruebaTec2.AccesoADatos.csproj": {
+                "projectPath": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.AccesoADatos\\PruebaTec2.AccesoADatos.csproj"
+              },
+              "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.EntidadesDeNegocio\\PruebaTec2.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\je\\Desktop\\PruebaTec2\\PruebaTec2.EntidadesDeNegocio\\PruebaTec2.EntidadesDeNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

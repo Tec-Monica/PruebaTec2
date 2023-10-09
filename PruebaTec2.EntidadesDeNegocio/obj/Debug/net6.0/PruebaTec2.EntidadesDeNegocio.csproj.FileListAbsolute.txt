@@ -1,0 +1,12 @@
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\bin\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.deps.json
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\bin\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\bin\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.pdb
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\obj\Debug\net6.0\refint\PruebaTec2.EntidadesDeNegocio.dll
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\obj\Debug\net6.0\PruebaTec2.EntidadesDeNegocio.pdb
+C:\Users\je\Documents\PruebaTecnica\PruebaTec2\PruebaTec2.EntidadesDeNegocio\obj\Debug\net6.0\ref\PruebaTec2.EntidadesDeNegocio.dll
